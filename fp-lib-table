@@ -1,5 +1,5 @@
 (fp_lib_table
 	(version 7)
-	(lib (name "MyFootprints") (type "KiCad") (uri "D:/dev/Endstop8x/MyFootprints.pretty") (options "") (descr ""))
-	(lib (name "Seeed Studio XIAO Series Library") (type "KiCad") (uri "D:/dev/Endstop8x/OPL_Kicad_Library/Seeed Studio XIAO Series Library") (options "") (descr ""))
+	(lib (name "MyFootprints") (type "KiCad") (uri "D:/dev/Runout8x/MyFootprints.pretty") (options "") (descr ""))
+	(lib (name "Seeed Studio XIAO Series Library") (type "KiCad") (uri "D:/dev/Runout8x/OPL_Kicad_Library/Seeed Studio XIAO Series Library") (options "") (descr ""))
 )

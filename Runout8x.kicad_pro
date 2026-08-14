@@ -503,7 +503,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Endstop8x.kicad_pro",
+    "filename": "Runout8x.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -541,7 +541,7 @@
       "netlist": "",
       "plot": "../Output/",
       "specctra_dsn": "",
-      "step": "Endstop8x.step",
+      "step": "../Runout8x.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -671,8 +671,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Endstop8x.kicad_sch",
-        "name": "Główny",
+        "filename": "Runout8x.kicad_sch",
+        "name": "Runout8x",
         "uuid": "9a475899-6a6c-4d16-9863-5f746c88db09"
       }
     ],
